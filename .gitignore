@@ -1,3 +1,6 @@
 .idea/
-*.iml
-out/
+/Memoization_JavaScript/**/idea
+/Memoization_Java/**/idea
+/Memoization_Java/**/Memoization_Java.iml
+/Memoization_Java/**/out
+/Memoization_JavaScript/**/node_modules

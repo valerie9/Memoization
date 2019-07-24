@@ -1,0 +1,17 @@
+{
+  "name": "memoization",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/valerie9/Memoization",
+  "author": "Valerie Peter",
+  "license": "MIT",
+  "scripts": {
+    "test": "node_modules/.bin/mocha ../at/fhv/vp/memoization/test/test.js"
+  },
+  "dependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^5.2.0",
+    "sinon": "^6.3.5",
+	"npm": "^6.2.0"
+  }
+}
